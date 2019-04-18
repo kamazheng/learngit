@@ -6,5 +6,5 @@ Git tracks changes of files.
 Git add a branch is quick.
 Git add a branch is quick 2.
 
+create a branch is quick and simple.
 
-create a branch is quick & simple.
